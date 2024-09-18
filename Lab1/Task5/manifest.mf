@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
-Created-By: Kravchenko Ugryumov
+Created-By: Kravchenko
 Main-Class: MyFirstClass
 
