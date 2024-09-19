@@ -1,10 +1,10 @@
 package myfirstpackage;
 
-public class MySecondClass {
+public class MyFirstPackage {
     int a;
     int b;
 
-    public MySecondClass(int a, int b) {
+    public MyFirstPackage(int a, int b) {
         this.a = a;
         this.b = b;
     }
