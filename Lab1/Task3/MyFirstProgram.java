@@ -16,8 +16,8 @@ class MyFirstClass {
 }
 
 class MySecondClass {
-    int a;
-    int b;
+    private int a;
+    private int b;
 
     public MySecondClass(int a, int b) {
         this.a = a;

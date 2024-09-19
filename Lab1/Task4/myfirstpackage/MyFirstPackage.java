@@ -1,8 +1,8 @@
 package myfirstpackage;
 
 public class MyFirstPackage {
-    int a;
-    int b;
+    private int a;
+    private int b;
 
     public MyFirstPackage(int a, int b) {
         this.a = a;
