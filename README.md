@@ -1,5 +1,5 @@
 # Лабораторные работы ООП 3 семестр ПМИ СНИУ
-[Кравченко Иван](https://t.me/AStrateg2509), [Угрюмов Данила](https://t.me/hateboyyy)
+[Кравченко Иван](https://t.me/AStrateg2509), ~~[Угрюмов Данила](https://t.me/hateboyyy)~~
 
 ## Лабораторная №1
 * Task1 - Ready
